@@ -1,6 +1,6 @@
 def looping
 
-  do loop
+  loop do
     puts "some harry potter shit"
 	#your code here
 end
